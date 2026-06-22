@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/callumbrown/Documents/Code/Internship/Spin DMFT/Spin_DMFT'
+relocations:     []
+...
